@@ -5,8 +5,6 @@ Draw in the air using hand gestures! This app uses MediaPipe AI to track your ha
 ## 🚀 Try it Live
 **[Open AirDraw App](https://Muntasir13mun.github.io/airdraw-app)**
 
-Replace `YOURUSERNAME` with your actual GitHub username.
-
 ## ✨ Features
 - 🤖 Real-time AI hand tracking
 - 🎨 Air drawing with pinch gestures  
